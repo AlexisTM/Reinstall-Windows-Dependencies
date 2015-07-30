@@ -11,6 +11,9 @@ Any program you wants to use daily /* *MUST HAVE* */
 * [Dropbox](https://www.dropbox.com/), [Google Drive](https://drive.google.com/drive/), [OneDrive](https://onedrive.live.com/)
 * [Malware Byte's](https://fr.malwarebytes.org)
 * [7-zip](http://www.7-zip.org/)
+* [Ccleaner](https://www.piriform.com/ccleaner/download) - Can clean the last Windows copy
+* [Defraggler](https://www.piriform.com/defraggler) - Optimise your SSD & defrag your HDD
+* [DirectX](https://www.microsoft.com/fr-be/download/details.aspx?id=35) - I always forget DirectX..
 * Windows Office
 
 ## Develop
