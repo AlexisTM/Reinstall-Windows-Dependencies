@@ -7,10 +7,10 @@ I got an SSD, what should I remember to do ?
 * Enable AHCI
 * Enable TRIM (`fsutil behavior set disabledeletenotify 0`)
 * Disable system restore
-* Disable indexing on SSD
+* Disable indexing on SSD, [Move index folder to HDD](http://windows.microsoft.com/fr-be/windows7/change-advanced-indexing-options)
 * Disable Hibernation ( `powercfg -h off` )
 * Disable Prefetch & Superfetch ( `HKEY_LOCAL_MACHINE\CurrentControlSet\Control\SessionManager\Memory Management\PrefetchParameters`)
-* Disable services for Windows Search and Superfetch
+* Disable service for Superfetch ( `services.msc` )
 * Disable ClearPageFileAtShutdown and LargeSystemCache ( `HKEY_LOCAL_MACHINE\CurrentControlSet\Control\SessionManager\Memory Management` )
 
 ### Source
