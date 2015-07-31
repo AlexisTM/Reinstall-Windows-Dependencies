@@ -39,6 +39,8 @@ Plugins to use with other programs
 * Sublime Text
 	* [Package control](https://packagecontrol.io/installation)
 * [Heroku Toolbelt](https://devcenter.heroku.com/articles/getting-started-with-php#set-up)
+* Google Chrome
+	* [AdBlock Plus](https://adblockplus.org/fr/) 
 
 ## Entertainement
 Apps to enjoy life
